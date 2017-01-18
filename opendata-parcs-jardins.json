@@ -1,5 +1,5 @@
 {
-'parc' : [
+"parc" : [
 	{
 		"entityid": "0f1e4ee4-e347-4d77-8333-38ffd4738a4a",
 		"raisonsociale": "Parc de l'Oasis",
@@ -2552,9 +2552,6 @@
 		"adresseweb": "",
 		"longitude": "4.620473",
 		"latitude": "43.599729"
-	},
-	{
-		"entityid": ""
 	}
 ]
 
